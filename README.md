@@ -1,0 +1,1 @@
+安装flask依赖，运行main.py即可
